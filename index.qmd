@@ -1,0 +1,108 @@
+---
+title: "Desarrollo de Pensamiento Computacional en niños con recursos limitados"
+#subtitle: ""
+date: "today"
+author: "Lcdo. Diego Medardo Saavedra García Mgtr."
+lang: "es"
+format:
+  revealjs:
+    #chalkboard: 
+      #buttons: false
+    #toc: true
+    incremental: false
+    slide-number: true
+    preview-links: auto
+    logo: http://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif
+    footer: <https://tinyurl.com/bdhndphf>
+    theme: dark
+    makeindex: true
+    multiplex: true
+    transition: fade
+    chalkboard: true #Pizarra
+    auto-stretch: false
+    smaller: false
+    scrollable: true
+    #presentation-title-slide-text-alig: left
+    presentation-slide-text-align: center
+    menu: true
+    codeBlock: {data-trim: true}
+    execute: true
+    executeCode: true
+  #html: 
+    
+    #code-fold: true
+    #html-math-method: katex
+    #multiplex: true
+    #transition: fade
+    #auto-stretch: false
+bibliography: Bibliografia.bib
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+editor_options: 
+  chunk_output_type: console
+---
+
+# Scratch Day Quito 2023.
+
+## ¿Qué es el Pensamiento Computacional?
+
+El Pensamiento Computacional es una habilidad fundamental en la era digital que permite a las personas resolver problemas de manera lógica y creativa, utilizando conceptos y métodos utilizados en la informática.
+
+## Importancia del Pensamiento Computacional.
+
+El Pensamiento Computacional fomenta habilidades como el razonamiento lógico, la resolución de problemas, la creatividad, el trabajo en equipo y la toma de decisiones informadas. Estas habilidades son cada vez más relevantes en diversos campos profesionales y en la vida cotidiana.
+
+## Beneficios del Pensamiento Computacional para niños y jóvenes.
+
+Desarrollar el Pensamiento Computacional en niños y jóvenes les permite adquirir habilidades transferibles a otras áreas de estudio y desarrollar un enfoque sistemático y estructurado para enfrentar desafíos.
+
+# ¿Qué herramientas se puede utilizar?.
+
+## Scratch
+
+![](http://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif)
+
+Scratch es un lenguaje de programación visual diseñado para niños y jóvenes. Permite crear historias interactivas, juegos y animaciones, fomentando la creatividad y el razonamiento lógico.
+
+## Scratch Jr
+
+{{< video https://www.youtube.com/watch?v=nMJTsthJ3PE width="400" height="300" >}}
+
+Scratch Jr es una versión simplificada de Scratch diseñada específicamente para niños más pequeños (de 5 a 7 años). Permite a los niños crear animaciones y juegos interactivos mediante bloques de programación visualmente intuitivos.
+
+## Code.org
+
+![](https://media1.tenor.com/images/ec26ef4a59daa8c4656b084dc06f2f44/tenor.gif)
+
+Es una plataforma en línea que ofrece cursos de programación gratuitos para niños y jóvenes. Proporciona lecciones interactivas y desafiantes, promoviendo el aprendizaje del Pensamiento Computacional.
+
+## LEGO Mindstorms
+
+![](https://www.brickshelf.com/gallery/CHOOPS/MOVIES/gearbox-2.gif)
+
+LEGO Mindstorms es una serie de kits de robótica educativa que permiten a los niños construir y programar robots. Proporciona una experiencia práctica para aprender Pensamiento Computacional y fomenta la resolución de problemas.
+
+## App Inventor
+
+![](https://s3.amazonaws.com/media-p.slid.es/uploads/290863/images/8417903/16.gif)
+
+App Inventor es una herramienta que permite a los niños y jóvenes crear sus propias aplicaciones móviles de manera sencilla y visual. Ayuda a desarrollar habilidades de diseño, programación y resolución de problemas.
+
+## Pictoblox
+
+{{< video https://www.youtube.com/watch?v=9y4vhkCl-Yw width="400" height="300" >}}
+
+Pictoblox es una herramienta de programación gráfica basada en Scratch, diseñada específicamente para trabajar con placas de desarrollo como Arduino. Permite a niños y jóvenes aprender programación y electrónica de manera divertida y práctica.
+
+## Conclusión.
+
+El Pensamiento Computacional es una habilidad esencial en el mundo actual. Las herramientas mencionadas son solo algunas de las muchas disponibles para ayudar a los niños y jóvenes a desarrollar esta capacidad y prepararse para el futuro digital.
+
+## Muchas Gracias.
+
+![](https://pbs.twimg.com/profile_images/1630705417440428032/34cc-Aca_400x400.jpg)
+
+Lic. Diego Medardo Saavedra García Mgtr.
+
+**Universidad de las Fuerzas Armadas ESPE**
+
+**Departamento de Ciencias de la Computación**
